@@ -1,2 +1,2 @@
-# bouncy-ball-with-physics
-i love physics
+# staticSquare
+A static square made using Matter.js physics engine
